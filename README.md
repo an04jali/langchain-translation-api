@@ -112,7 +112,3 @@ Body:
     "text": "Hello, how are you?"
   }
 }
-
-u like this project
-
-Give it a star ⭐ on GitHub — it helps!
